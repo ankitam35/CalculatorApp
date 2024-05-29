@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import Calculator from './src/Calculator';
+import Calculator from './src/screen/Calculator';
 
 const App = () => {
   return (
